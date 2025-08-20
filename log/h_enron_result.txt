@@ -1,0 +1,5 @@
+# ============================
+   - Final AUC (best): 0.9429 ± 0.0042
+   - Final AP  (best): 0.9415 ± 0.0035
+   - Avg time per epoch: 3.9155s
+   - Avg number of epochs: 69.8
